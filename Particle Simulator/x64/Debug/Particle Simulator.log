@@ -1,0 +1,38 @@
+﻿  Game.cpp
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(270,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(306,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(310,50): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(316,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(317,49): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(318,49): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(330,56): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(333,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(334,47): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(335,47): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(341,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(342,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(343,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(349,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(352,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(352,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(353,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(353,117): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(357,213): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rapto\Desktop\.Simulations\Particle Simulator\Particle Simulator\Game.cpp(361,213): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Particle Simulator.vcxproj -> C:\Users\rapto\Desktop\.Simulations\Particle Simulator\x64\Debug\Particle Simulator.exe
